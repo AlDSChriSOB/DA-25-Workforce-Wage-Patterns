@@ -1,0 +1,13 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,534
+wage,float64,0,0.0,238
+education,int64,0,0.0,17
+experience,int64,0,0.0,52
+age,int64,0,0.0,47
+ethnicity,object,0,0.0,3
+region,object,0,0.0,2
+gender,object,0,0.0,2
+occupation,object,0,0.0,6
+sector,object,0,0.0,3
+union,object,0,0.0,2
+married,object,0,0.0,2

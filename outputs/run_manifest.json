@@ -1,0 +1,16 @@
+{
+  "project": "Workforce Wage Patterns",
+  "executed_utc": "2026-11-21T10:14:15.001363+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/CPS1985.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/CPS1985.html",
+  "sha256": "1b4bf681b94ecb82e534a0f97773c704205e13ccf13d273e439e44eaa9f5435c",
+  "raw_rows": 534,
+  "analysis_rows": 534,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 25,
+  "title": "Workforce Wage Patterns",
+  "question": "How do hourly wages differ across occupation categories?",
+  "x": "occupation",
+  "y": "wage",
+  "mode": "group",
+  "caveat": "Historical survey; reported means are unweighted unless survey weights are supplied.",
+  "action": "Review sample design and adjust for experience and education.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/CPS1985.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/CPS1985.html",
+  "metric_label": "mean wage",
+  "method": "Complete-case descriptive comparison of wage by occupation; show group counts, mean, minimum and maximum."
+}
